@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/tvnam160495/My-First-Repo/raw/raw/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/tvnam160495/My-First-Repo/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
@@ -20,7 +20,7 @@ read -p "Paste Ngrok Authtoken: " CRP
 ./ngrok authtoken $CRP 
 
 clear
-echo "Repo: https://github.com/tvnam160495/My-First-Repo/raw"
+echo "Repo: https://github.com/tvnam160495/My-First-Repo"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
