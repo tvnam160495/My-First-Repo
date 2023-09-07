@@ -1,6 +1,6 @@
 wget -O ng.sh https://github.com/tvnam160495/My-First-Repo/raw/main/ngrok.sh > /dev/null 2>&1
-chmod +x ng.sh
-./ng.sh
+chmod +x ngrok.sh
+./ngrok.sh
 
 
 function goto
